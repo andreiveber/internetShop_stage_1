@@ -1,0 +1,13 @@
+* text=auto
+
+*.cs text diff
+*.cshtml text
+*.json text
+*.md text
+*.gitignore text
+*.sln text eol=crlf
+*.csproj text eol=crlf
+
+*.png binary
+*.jpg binary
+*.ico binary
