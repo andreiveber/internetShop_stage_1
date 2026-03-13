@@ -1,8 +1,7 @@
 # Интернет-магазин (учебный проект)
 ![1](https://github.com/user-attachments/assets/779456fe-fc73-415f-8beb-6ae452c227de)
 
-![2](https://github.com/user-attachments/assets/b6a2f54a-e9b8-4f48-8b27-ab189b787a63)
-
+![2](https://github.com/user-attachments/assets/4ffe0617-d33e-4f99-9c74-2ad07a03ea75)
 
 Проект создан в Visual Studio 2022 с использованием пустого шаблона ASP.NET Core.
 
